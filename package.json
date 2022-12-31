@@ -7,6 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "release-it"
   },
+  "release-it": {
+    "npm": {
+      "publish": false
+    }
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
